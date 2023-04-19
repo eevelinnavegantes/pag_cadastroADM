@@ -11,7 +11,17 @@ body
             align-content: center;
             align-items: center;
             overflow: hidden;
-            
+        }
+        .ADMPRIN
+        {
+            width: 30%;
+            height: 100vh;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            justify-items: center;
+            align-content: center;
+            align-items: center;  
         }
         .d1
         {
@@ -27,8 +37,9 @@ body
         }
         .ADM
         {
+            margin-top: 50px;
             background: rgba(255, 255, 255, 0.7);
-            width: 30%;
+            width: 90%;
             height: 50vh;
             display: flex;
             flex-direction: column;
